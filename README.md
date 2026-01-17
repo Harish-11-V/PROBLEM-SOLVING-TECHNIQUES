@@ -72,7 +72,9 @@ PROBLEM-SOLVING-TECHNIQUES
 ## 👨‍💻 Author
 
 Harish Kumar V
+
 B.Tech – Artificial Intelligence & Machine Learning
+
 Rajalakshmi Engineering College
 
 ---
